@@ -23,5 +23,35 @@ import TheWelcome from "@/components/TheWelcome.vue";
       dengan keinginan dan dapat membantu para pembaca
     </li>
   </ul>
+
+  <h3>KONTAK</h3>
+  <h4>Alamat:</h4>
+  <p>Jakarta Selatan</p>
+  <h4>Telepon / WA :</h4>
+  <p>0101010101</p>
+
+  <h3>KEAHLIAN</h3>
+  <ul>
+    <li>HARDWARE</li>
+    <li>INSTALASI SOFTWARE</li>
+    <li>TESTING JARINGAN</li>
+    <li>PHP, JAVA, Java Script, C++, CSS3, SQL</li>
+  </ul>
+
+  <h3>HOBI</h3>
+  <ul>
+    <li>NGODING</li>
+    <li>BLOGING</li>
+    <li>MEMBACA</li>
+  </ul>
+
   <h3>Riwayat pekerjaan</h3>
+  <h4>LAB ICT UBL || UNIVERSITAS BUDILUHUR</h4>
+  <p>
+    saya mempunyai pengalaman praktek kerja lapangan di universitas budi luhur
+    pekerjaan saya disana adalah memperbaiki sofware komputer dan berbagai
+    masalah lain nya yang ada pada suatu komputer serta mengerjakan karya tulis
+    yang akan disidang setelah meyelesaikan kegiatan PKL yang berlangsung selama
+    2 bulan.
+  </p>
 </template>
